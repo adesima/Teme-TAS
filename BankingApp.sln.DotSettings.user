@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e2f88281_002Dab1e_002D45c4_002D9149_002Db9e1c0a48ce9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from AccountTest.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFile&gt;F5ED86F2-BC42-4BB8-B5DD-42863DE6A6A3/f:AccountTest.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::F5ED86F2-BC42-4BB8-B5DD-42863DE6A6A3::net9.0::BankingApp.Tests.DepositTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::F5ED86F2-BC42-4BB8-B5DD-42863DE6A6A3::net9.0::BankingApp.Tests.TransferFundsTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::F5ED86F2-BC42-4BB8-B5DD-42863DE6A6A3::net9.0::BankingApp.Tests.WithdrawTest&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::F5ED86F2-BC42-4BB8-B5DD-42863DE6A6A3::net9.0::BankingApp.Tests.TransferFundsTestEurRon.TransferFundsEurRon_Pass&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::F5ED86F2-BC42-4BB8-B5DD-42863DE6A6A3::net9.0::BankingApp.Tests.TransferFundsTestEurRon.TrasnferFundsEurRon_Fail_ThrowsException&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::F5ED86F2-BC42-4BB8-B5DD-42863DE6A6A3::net9.0::BankingApp.Tests.TransferFundsTestEurRon&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
