@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingApp", "BankingApp\Ba
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingApp.Tests", "BankingApp.Tests\BankingApp.Tests.csproj", "{F5ED86F2-BC42-4BB8-B5DD-42863DE6A6A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingApp.ConsoleUI", "BankingApp.ConsoleUI\BankingApp.ConsoleUI.csproj", "{4847744B-5327-43BA-AA7C-F847F7888EA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{F5ED86F2-BC42-4BB8-B5DD-42863DE6A6A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5ED86F2-BC42-4BB8-B5DD-42863DE6A6A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5ED86F2-BC42-4BB8-B5DD-42863DE6A6A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4847744B-5327-43BA-AA7C-F847F7888EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4847744B-5327-43BA-AA7C-F847F7888EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4847744B-5327-43BA-AA7C-F847F7888EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4847744B-5327-43BA-AA7C-F847F7888EA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

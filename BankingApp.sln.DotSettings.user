@@ -9,6 +9,7 @@
       &lt;TestId&gt;xUnit::F5ED86F2-BC42-4BB8-B5DD-42863DE6A6A3::net9.0::BankingApp.Tests.TransferFundsTestEurRon.TransferFundsEurRon_Pass&lt;/TestId&gt;&#xD;
       &lt;TestId&gt;xUnit::F5ED86F2-BC42-4BB8-B5DD-42863DE6A6A3::net9.0::BankingApp.Tests.TransferFundsTestEurRon.TrasnferFundsEurRon_Fail_ThrowsException&lt;/TestId&gt;&#xD;
       &lt;TestId&gt;xUnit::F5ED86F2-BC42-4BB8-B5DD-42863DE6A6A3::net9.0::BankingApp.Tests.TransferFundsTestEurRon&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::F5ED86F2-BC42-4BB8-B5DD-42863DE6A6A3::net9.0::BankingApp.Tests.AccountTestWithMock&lt;/TestId&gt;&#xD;
     &lt;/TestAncestor&gt;&#xD;
   &lt;/Or&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
