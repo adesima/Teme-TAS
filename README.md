@@ -1,4 +1,4 @@
-# 📘 Bank Account Testing Project
+# 📘 BankingApp Testing Project
 
 This repository contains the materials developed for the Software Application Testing lab. The project started from a base class provided by the instructor and was extended through multiple layers of testing, additional validations, and a small console application to interact with the system.
 
