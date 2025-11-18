@@ -88,12 +88,14 @@ public class Account
         // }
     }
 
-    public void TransferFundsEurRon(Account destination, float amount, float currencyConverter)
+    public void TransferFundsEurRon(Account destination, float amount, ICurrencyService currencyConverter)
     {
-        if (currencyConverter <= 0 )
+        float rate = currencyConverter.GetEurToRonRate();
+        
+        if (rate <= 0 )
             throw new IncorrectCurrecnyConverter();
         Withdraw(amount);
-        destination.Deposit(amount * currencyConverter);
+        destination.Deposit(amount * rate);
     }
     
     

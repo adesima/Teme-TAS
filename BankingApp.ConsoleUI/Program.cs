@@ -223,11 +223,13 @@ internal class Program
             Console.Write("Suma in EUR de transferat: ");
             float amount = float.Parse(Console.ReadLine());
 
-            Console.Write("Curs valutar (ex: 4.9): ");
-            float rate = float.Parse(Console.ReadLine());
+            // Console.Write("Curs valutar (ex: 4.9): ");
+            // float rate = float.Parse(Console.ReadLine());
+            
+            ICurrencyService currencyConverter = new CurrencyConverter();
 
-            currentAccount.TransferFundsEurRon(destinatie, amount, rate);
-            Console.WriteLine($"Transfer EUR->RON reusit! Destinatarul a primit: {amount * rate} RON");
+            currentAccount.TransferFundsEurRon(destinatie, amount, currencyConverter);
+            Console.WriteLine($"Transfer EUR->RON reusit! Destinatarul a primit: {amount * currencyConverter.GetEurToRonRate()} RON");
         }
 
         static void CheckFees()
